@@ -1,0 +1,12 @@
+ROFEE - ARCHIVOS LISTOS PARA GITHUB PAGES
+
+1. Crea tu repositorio en GitHub.
+2. Descomprime este ZIP y sube LOS ARCHIVOS Y CARPETAS DE ADENTRO a la raiz del repositorio (NO subas la carpeta contenedora).
+3. Confirma los cambios en la rama main.
+4. En Settings > Pages > Build and deployment, Source: Deploy from a branch.
+5. Branch: main, Folder: /(root), Save.
+6. GitHub mostrara la URL cuando termine de publicar.
+
+Esta version es estatica y NO necesita GitHub Actions, npm, Vite o Codespaces para publicarse.
+Las evaluaciones se guardan localmente en el navegador, no en GitHub.
+Incluye atribuciones y licencias originales en emojis/ y licenses/.
